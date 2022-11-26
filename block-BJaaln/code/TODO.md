@@ -31,7 +31,8 @@ function mergeSort() {
 3. Create a function named `quickSort` that accepts an array of numbers and returns the array with sorted values. The elements should be in ascending order. Use the selection sorting algorithms. After writing the function test it with an array and check if you are getting the right output.
 
 ```js
-function quickSort() {
+function quickSort(values) {
+  return values.sort()
   // your code
 }
 ```
