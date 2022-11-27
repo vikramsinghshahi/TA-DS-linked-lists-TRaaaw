@@ -11,6 +11,9 @@ Using the linked list class you created in the previous exercise implement stack
 
 ```js
 class Stack {
+  add: (num)=>{
+    return num
+  }
   // your code goes here
 }
 
