@@ -31,6 +31,9 @@
 
 ```js
 // Your code goes here
+function linkList(num){
+  return num
+}
 
 // Test
 let list = new LinkedList(10);
